@@ -111,3 +111,19 @@ Full list: https://ai.stanford.edu/courses/
 | Vision-Language Models for Vision Tasks: A Survey | [arXiv](https://arxiv.org/pdf/2304.00685v2) | Most widely used vision-language models |
 | GPT-4 Technical Report | [arXiv](https://arxiv.org/pdf/2303.08774) | Main differences between GPT-4 and GPT-3.5 |
 | CRAG -- Comprehensive RAG Benchmark | [arXiv](https://arxiv.org/pdf/2406.04744) | Approach to experimenting with different data mixtures |
+
+## Tools
+
+Tensorflow
+https://www.tensorflow.org/tutorials
+Pytorch
+https://pytorch.org/get-started/locally/
+https://docs.pytorch.org/tutorials/
+
+DeepSpeed was an important part of Microsoft’s AI at Scale initiative to enable next-generation AI capabilities at scale, where you can find more information here.
+https://github.com/deepspeedai/DeepSpeed
+https://github.com/deepspeedai
+
+An open source framework to build and scale your ML and Python applications easily
+https://www.ray.io/
+https://docs.ray.io/en/latest/ray-overview/examples.html

@@ -1,0 +1,28 @@
+import React, { useState, useMemo } from 'react';
+import './index.css';
+//import './App.css';
+import AttentionExplainer from './components/AttentionExplainer.jsx';
+import EmbeddingExplainer from './components/EmbeddingExplainer.jsx';
+import PositionEncodingExplainer from './components/PositionEncodingExplainer.jsx';
+import PEVisualization from './components/PEVisualization.jsx';
+import QKVProjection from './components/QKVProjection.jsx';
+import ScaledAttention from './components/ScaledAttention.jsx';
+import MultiHeadAttention from './components/MultiHeadAttention.jsx';
+
+// ============================================
+// MAIN APP
+// ============================================
+
+export default function App() {
+  return (
+    <MultiHeadAttention />
+  );
+}
+
+//  <AttentionExplainer />
+//  <EmbeddingExplainer />
+//  <PositionEncodingExplainer />
+//  <PEVisualization />
+//  <QKVProjection />
+//  <ScaledAttention />
+//  <MultiHeadAttention />
